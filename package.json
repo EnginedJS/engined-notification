@@ -1,0 +1,33 @@
+{
+  "name": "engined-notification",
+  "version": "0.0.1",
+  "description": "Notification service for engined, used to send notification in backend.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnginedJS/engined-notification.git"
+  },
+  "keywords": [
+    "service",
+    "engined",
+    "notification"
+  ],
+  "engines": {
+    "node": ">=7.4"
+  },
+  "author": "Leon Lin <leonlin14@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnginedJS/engined-notification/issues"
+  },
+  "homepage": "https://github.com/EnginedJS/engined-notification#readme",
+  "dependencies": {
+    "engined": "0.0.2"
+  }
+}
