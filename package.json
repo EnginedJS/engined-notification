@@ -1,6 +1,6 @@
 {
   "name": "engined-notification",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Notification service for engined, used to send notification in backend.",
   "main": "index.js",
   "directories": {
